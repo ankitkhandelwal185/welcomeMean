@@ -1,1 +1,1 @@
-This is a login and signup project featuring mongodb, nodejs and expressjs
+This project is based upon Mongodb, Node.js, Express.js and Angular.js . I'll add new functionality in this project as i'll complete, Currently login and sign have added successfully. Anyone can make use of these features as they are open source.
